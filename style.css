@@ -1,0 +1,61 @@
+.navbar img {
+    width: 280px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    position: sticky;
+}
+.navbar p {
+    font-size: 30px;
+    color: grey;
+}
+hr {
+    line-height: -0.2px;
+    line-gap-override: 20px;
+    color: rgba(245, 245, 245, 0.89);
+} 
+
+.container {
+   border: -0.5 solid grey;
+   border-radius: 10px;
+   box-shadow: 0 5px 10px rgba(117, 116, 116, 0.89);
+   justify-content: center;
+   padding: 20px;
+   margin: 10px;
+   margin-left: 500px;
+   width: 40%;
+   height: 700px;
+   flex: 1;
+   text-align: center;
+   align-items: center;
+   font-family: "inter", sans-serif;
+   font-size: x-large;
+}
+
+.box {
+    margin-top: 100px;
+}
+
+
+.inter-p {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10;
+    font-style: normal;
+    font-size: x-large;
+    
+  }
+
+ #but {
+    width: 80%;
+    height: 60px;
+    font-size: x-large;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+ }
